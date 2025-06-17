@@ -45,6 +45,8 @@ function App() {
             <th>Sam</th>
             <th>Isaac</th>
             <th>Ruby</th>
+            <th>Demi</th>
+            <th>Kallum</th>
             <th>Team Total</th>
             <th>Orders Remaining</th>
           </tr>
