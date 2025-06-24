@@ -38,7 +38,7 @@ function App() {
             <th>Ella</th>
             <th>Gabriela</th>
             <th>Kate</th>
-            <th>Gabe</th>
+            <th>Lamarr</th>
             <th>Shell</th>
             <th>Susan</th>
             <th>Kelly</th>
