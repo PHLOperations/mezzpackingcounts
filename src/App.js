@@ -33,7 +33,7 @@ function App() {
         <thead>
           <tr>
             <th>Hour</th>
-            <th>Adam</th>
+            <th>Sarah</th>
             <th>Andrea</th>
             <th>Ella</th>
             <th>Gabriela</th>
