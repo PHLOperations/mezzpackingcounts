@@ -41,7 +41,7 @@ function App() {
             <th>Lamarr</th>
             <th>Shell</th>
             <th>Susan</th>
-            <th>Kelly</th>
+            <th>Lauren</th>
             <th>Sam</th>
             <th>Isaac</th>
             <th>Ruby</th>
