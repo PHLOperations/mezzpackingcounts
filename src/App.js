@@ -43,7 +43,7 @@ function App() {
             <th>Susan</th>
             <th>Lauren</th>
             <th>Sam</th>
-            <th>Isaac</th>
+            <th>Scarlett</th>
             <th>Ruby</th>
             <th>Demi</th>
             <th>Kallum</th>
